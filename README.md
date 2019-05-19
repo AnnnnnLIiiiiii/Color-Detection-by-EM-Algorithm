@@ -1,4 +1,5 @@
 # Color-Detection-by-EM-Algorithm
+### Coworker: Lih-Narn Wang, Yu-Kei Wang
 Implemet Expectation-Maximization Algorithm to detect buoys color in underwater surrounding
 For source video "dectectbuoy.avi" please go to this drive: https://drive.google.com/drive/folders/1RLMWjPMePjDLOU0lv_CiUbqIp24ZPwHX?usp=sharing
 
